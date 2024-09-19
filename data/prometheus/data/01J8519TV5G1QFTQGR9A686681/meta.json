@@ -1,0 +1,32 @@
+{
+	"ulid": "01J8519TV5G1QFTQGR9A686681",
+	"minTime": 1726660805412,
+	"maxTime": 1726725600000,
+	"stats": {
+		"numSamples": 15942272,
+		"numSeries": 46873,
+		"numChunks": 198134
+	},
+	"compaction": {
+		"level": 3,
+		"sources": [
+			"01J82YBP64Z1TPKPMW9D1FEHFN",
+			"01J83ZDKGWZ8EJ6ZXD41KK47TX",
+			"01J849S7AKB2PB2R6TH92BKVWV",
+			"01J84KZN10D41S98T5N537NT98"
+		],
+		"parents": [
+			{
+				"ulid": "01J84KZWBPJF3V6X7PCCENEDC3",
+				"minTime": 1726660805412,
+				"maxTime": 1726682400000
+			},
+			{
+				"ulid": "01J8519PZBMKF1S2A8Z8851NQ5",
+				"minTime": 1726710461654,
+				"maxTime": 1726725600000
+			}
+		]
+	},
+	"version": 1
+}

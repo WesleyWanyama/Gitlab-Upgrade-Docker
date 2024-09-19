@@ -1,0 +1,1 @@
+/opt/gitlab/embedded/postgresql/13/bin/postgres "-D" "/var/opt/gitlab/postgresql/data" "-p" "50432" "-b" "-c" "listen_addresses=" "-c" "unix_socket_permissions=0700" "-c" "unix_socket_directories=/var/opt/gitlab/postgresql"
